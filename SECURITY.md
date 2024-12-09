@@ -2,7 +2,7 @@
 
 ## WireMock Cloud
 
-Report the security issues [here](https://github.com/wiremock-inc/wiremock-cloud/security/advisories)
+Report any security issues [here](https://github.com/wiremock-inc/wiremock-cloud/security/advisories)
 
 ## WireMock Open Source
 
