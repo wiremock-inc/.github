@@ -1,6 +1,6 @@
 # WireMock Inc.
 
-Theis the GitHub organization for WireMock Inc.
+Theis the GitHub organization for WireMock Inc, providers of WireMock Cloud, the hosted API simulator built on WireMock, available as both Software as a Service and On Premise (Kubernetes).
 
 ## Reporting Security Issues
 
